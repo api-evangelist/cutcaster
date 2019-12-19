@@ -1,0 +1,92 @@
+{
+    "name": "Cutcaster",
+    "description": "Cutcaster sells pictures and clipart for use on websites, design projects, powerpoint presentations, blogs or anytime you need a unique image to tell your story.    Search our picture library via our lightning quick search engine, download comps, buy s...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/748-cutcaster.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "images",
+        "marketplaces",
+        "photos",
+        "stocks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cutcaster\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cutcaster",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/748-cutcaster.jpg",
+            "humanURL": "http:\/\/cutcaster.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cutcaster-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cutcaster-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.cutcaster.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.cutcaster.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cutcaster"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cutcaster"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/cutcaster.com\/help\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@cutcaster.com"
+        },
+        {
+            "type": "Email",
+            "url": "help@cutcaster.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@cutcaster.com"
+        },
+        {
+            "type": "Email",
+            "url": "unsubscribe@cutcaster.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Cutcaster"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/cutcaster.com\/help\/how-to-buy\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cutcaster"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cutcaster.com"
+        }
+    ]
+}
